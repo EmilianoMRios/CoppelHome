@@ -1,0 +1,93 @@
+
+
+.recibe-ofertas{
+    padding: 30px 40px 10px;
+    margin: 0 auto;
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+}
+
+.agreganos{
+  text-align: -webkit-center;
+}
+
+.img-agreganos{
+    width: 72px!important;
+}
+
+.nomarging{
+    margin: 0;
+}
+
+.suscribeteBtn{
+    display: inline-grid;
+    height: 56px;
+}
+
+.gotop{
+    background-color: #2e4252;
+    color: white;
+}
+
+.compra-app{
+    padding: 24px 8px 28px 8px;
+    margin: 0 auto;
+    display: flex;
+    background-color: #192c39;
+    color: white;
+}
+
+.compra-p{
+    text-align: end;
+    font-weight: bold;
+}
+
+.links{
+    padding: 20px 0px 0px 50px;
+    background-color: #1f3545;
+    color: white!important;
+    margin: 0 auto;
+    display: flex;
+}
+
+.color{
+    color: white!important;
+    list-style: none;
+    font-size: small;
+    padding: 0%;
+}
+
+a{
+    color: white!important;
+}
+
+.blue-a{
+    color: blue!important;
+}
+
+li{
+    margin-bottom: 15px;
+}
+
+.margin{
+    margin-left: 100px;
+}
+
+.links-terms{
+    background-color: #192c39;
+    color: white!important;
+    margin: 0 auto;
+    display: flex;
+    padding: 40px 60px 20px 120px;
+}
+
+.links-items{
+    font-size: small;
+    margin: 30px;
+}
+
+.text-terms{
+    font-size: small;
+    padding: 40px 40px 20px 10px;
+}
